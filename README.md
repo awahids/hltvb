@@ -82,7 +82,7 @@ belajar-go/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/belajar-go.git
+   git clone https://github.com/awahids/hltvb.git
    cd belajar-go
    ```
 
